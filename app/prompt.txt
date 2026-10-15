@@ -1,0 +1,1 @@
+create react js app using next js with ReactBootstrap inbuilt routing axios reduxtoolkit formik yup with json-server data to manage product CRUD operations
