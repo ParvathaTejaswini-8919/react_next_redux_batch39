@@ -80,6 +80,15 @@
       "stock": 11,
       "description": "New Product One",
       "id": "UA8zEgW"
+    },
+    {
+      "name": "New One",
+      "sku": "ACC-0045",
+      "category": "Accessories",
+      "price": 23,
+      "stock": 20,
+      "description": "New One",
+      "id": "_XL1jO-"
     }
   ]
 }
